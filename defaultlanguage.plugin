@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=defaultlanguage
+IAge=1
+Name=Default Language
+Description=Sets the default language (i.e., Highlight Mode)
+Authors=Dan Allen <dan.j.allen@gmail.com>
+Copyright=Copyright © 2013 Dan Allen
+Website=https://github.com/gedit-defaultlanguage-plugin
+Version=1.0.0
