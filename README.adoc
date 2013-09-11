@@ -1,0 +1,4 @@
+= gedit-default-language-plugin
+Dan Allen
+
+A plugin for Gedit that sets the default source language (i.e., highlight mode).
